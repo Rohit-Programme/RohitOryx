@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RohitOryx
+- 👋 Hi, I’m RohitSrivastava
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning programming languages
 
